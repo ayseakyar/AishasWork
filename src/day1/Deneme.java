@@ -5,6 +5,8 @@ public class Deneme {
         //deneme yapmaya basladik
 
         //conflict ne demek
+        
+        //degisik
 
     }
 }
